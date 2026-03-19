@@ -5,6 +5,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        
+    </header>
 
 <h1>Sälj ditt brädspel</h1>
 
