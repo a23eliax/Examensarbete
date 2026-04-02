@@ -91,3 +91,13 @@ form input, form button {
     float:right;
     font-size:25px;
 }
+
+footer {
+    margin: 100px;
+}
+
+footer span {
+    display: block;
+    color: dimgrey;
+    font-style: italic;
+}
