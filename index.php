@@ -141,7 +141,6 @@ loadProducts();
 
 
 </script>
-<script src="measure_images.js"></script>
 
 </body>
 <footer>
