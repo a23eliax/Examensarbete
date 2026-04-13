@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // ===== Middleware: konvertera till WebP med cwebp.exe =====
-    $cwebpPath = 'C:\\cwebp\\cwebp.exe'; // sökväg till din cwebp.exe
+    $cwebpPath = 'C:\\cwebp\\cwebp.exe'; // sökväg till konverteringsverktyget cwebp
     $quality = 80;
 
     $cmd = escapeshellarg($cwebpPath) . ' -q ' . intval($quality) . ' ' . escapeshellarg($tmpName) . ' -o ' . escapeshellarg($webpFile);
