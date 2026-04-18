@@ -8,7 +8,7 @@
 (function () {
     "use strict";
 
-    const iterations = 25;
+    const iterations = 50;
 
     let count = Number(localStorage.getItem("count")) || 0;
     let oldMeasurement = Number(localStorage.getItem("oldMeasurement")) || Date.now();
@@ -47,7 +47,7 @@
         count++;
         localStorage.setItem("count", count);
 
-        setTimeout(() => location.reload(), 300);
+        setTimeout(() => location.reload());
     }
 
 })();
