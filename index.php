@@ -148,7 +148,7 @@ loadProducts();
 </body>
 <footer>
     <span>
-        Alla bilder i detta examensarbete är tagna av författaren och används enbart i utbildningssyfte,
+        Alla bilder i detta examensarbete är AI-genererade och används enbart i utbildningssyfte,
         och inget material kommer att säljas eller användas kommersiellt.
     </span>
 </footer>
