@@ -3,11 +3,14 @@
 <head>
     <title>Brädspelsmarknaden</title>
     <link rel="stylesheet" href="style.css">
-</head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Play:wght@400;700&family=Playwrite+NZ+Guides&display=swap" rel="stylesheet"></head>
 <body>
     <header>
-        
+        <span>Brädspelsmarknaden</span>
     </header>
+</head>
 
 <h1>Sälj ditt brädspel</h1>
 
